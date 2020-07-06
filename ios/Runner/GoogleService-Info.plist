@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>336592356810-hecnncc55fmpqjdr9luvl5nicbn75vgf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.336592356810-hecnncc55fmpqjdr9luvl5nicbn75vgf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>336592356810-f1hu0u6nhephvmccpnv16n4c6kmb2ko5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBD0zu2gk2DFycX3WQQFWaHgywBfb8M0r8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>336592356810</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.programmingwithabdullah.steponeformygoal</string>
+	<key>PROJECT_ID</key>
+	<string>step-one-for-my-goal</string>
+	<key>STORAGE_BUCKET</key>
+	<string>step-one-for-my-goal.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:336592356810:ios:02506c1cee0213fae3fb33</string>
+	<key>DATABASE_URL</key>
+	<string>https://step-one-for-my-goal.firebaseio.com</string>
+</dict>
+</plist>
